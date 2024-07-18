@@ -15,7 +15,7 @@ Ensure you have the following packages installed:
 
 You can install them using pip:
 ```bash
-!pip install quandl
+pip install quandl
 ```
 
 ### Usage
